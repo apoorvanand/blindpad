@@ -30,7 +30,7 @@
     "@angular/router": "3.0.0",
     "basic-auth": "^1.0.4",
     "bowser": "^1.4.4",
-    "codemirror": "^5.16.0",
+    "codemirror": "^5.54.0",
     "codemirror-mode-elixir": "^1.1.1",
     "core-js": "^2.4.0",
     "detect-pitch": "^1.1.0",
